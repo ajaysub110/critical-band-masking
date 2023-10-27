@@ -1,0 +1,20 @@
+{
+	"hrnet_w64": 0.134,
+	"selecsls42": 0.001,
+	"selecsls84": 0.001,
+	"selecsls42b": 0.152,
+	"selecsls60": 0.144,
+	"selecsls60b": 0.143,
+	"resnet50_swsl": 0.136,
+	"ResNeXt101_32x16d_swsl": 0.19,
+	"BiTM_resnetv2_50x1": 0.131,
+	"BiTM_resnetv2_101x1": 0.164,
+	"BiTM_resnetv2_101x3": 0.204,
+	"BiTM_resnetv2_152x2": 0.186,
+	"BiTM_resnetv2_152x4": 0.229,
+	"resnet50_clip_hard_labels": 0.081,
+	"resnet50_clip_soft_labels": 0.118,
+	"swag_regnety_16gf_in1k": 0.158,
+	"swag_regnety_32gf_in1k": 0.184,
+	"swag_regnety_128gf_in1k": 0.25
+}

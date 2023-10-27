@@ -1,0 +1,1 @@
+{"alexnet": 0.502, "resnet18": 0.622, "resnet34": 0.662, "resnet50": 0.743, "resnet101": 0.775, "vit_large_patch16_224": 0.832, "resnet50_l2_eps0_01": 0.713, "resnet50_l2_eps1": 0.694}
